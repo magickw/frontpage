@@ -4,6 +4,6 @@ This is a project that refactors the existing codebase for Horiseon website to e
 
 Below is the screenshot:
 
-![Horiseon](https://user-images.githubusercontent.com/79061264/112739730-830d8880-8f2b-11eb-8b98-16bdf8ea616a.png)
+![Horiseon](https://drive.google.com/file/d/1HcsIJ628TEE6HjgDYeF1FvOADWVaTJzs/view?usp=sharing)
 
-The link to the deployed application is: https://magickw.github.io/horiseon-code-refactoring.
+Click the link to see the deployed application: https://magickw.github.io/horiseon-code-refactoring.
