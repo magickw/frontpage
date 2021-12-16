@@ -9,4 +9,5 @@ Below is the screenshot:
 Click the link to see the deployed application: https://magickw.github.io/horiseon-code-refactoring.
 
 **Credits**
+
 UC Berkeley Extension Coding Bootcamp Staff
