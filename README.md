@@ -7,3 +7,6 @@ Below is the screenshot:
 <img src=".\assets\images\01-html-css-git-homework-demo.png" alt="Horiseon" />
 
 Click the link to see the deployed application: https://magickw.github.io/horiseon-code-refactoring.
+
+**Credits**
+UC Berkeley Extension Coding Bootcamp Staff
